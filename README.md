@@ -1,4 +1,4 @@
-Hospital Management System Project
+<h1>Hospital Management System Project</h1>
  ——————————————————————————
  Features:
  1.1. Patient Management
