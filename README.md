@@ -10,7 +10,7 @@
     <hr>
     <p>This project is designed to efficiently manage a hospital's operations, including patients, doctors, appointments, and medical records.</p>
     
-    <h2>Features</h2>
+<h2>Features</h2>
     <h3>1. Patient Management</h3>
     <ul>
         <li><strong>Add New Patients</strong>
@@ -36,7 +36,7 @@
         </li>
     </ul>
     
-    <h3>2. Doctor Management</h3>
+<h3>2. Doctor Management</h3>
     <ul>
         <li><strong>Add New Doctors</strong>
             <ul>
@@ -60,7 +60,7 @@
         </li>
     </ul>
     
-    <h3>3. Appointment Scheduling</h3>
+<h3>3. Appointment Scheduling</h3>
     <ul>
         <li><strong>Book Appointments</strong>
             <ul>
@@ -79,7 +79,7 @@
         </li>
     </ul>
     
-    <h3>4. Medical Records Management</h3>
+<h3>4. Medical Records Management</h3>
     <ul>
         <li><strong>Add Diagnosis</strong>
             <ul>
@@ -103,7 +103,7 @@
         </li>
     </ul>
     
-    <hr>
+<hr>
     <p><em>Note: This is a conceptual overview for a Hospital Management System project. The implementation details and code would depend on the specific technologies chosen.</em></p>
 </body>
 </html>
